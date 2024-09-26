@@ -1,0 +1,3 @@
+// the configured options and settings for Tutorial
+#define AMTypeID_VERSION_MAJOR @AMTypeID_VERSION_MAJOR@
+#define AMTypeID_VERSION_MINOR @AMTypeID_VERSION_MINOR@
