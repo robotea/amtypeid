@@ -29,7 +29,7 @@ If you dislike long range of hash, you may put its own id by:
 
 ## Documetation
 
-There are doxygen generated documentation [here on libandromeda.org](http://libandromeda.org/amtypeid/latest/).
+There are doxygen generated documentation [here on andromeda.robotea.com](http://andromeda.robotea.com/amtypeid/latest/).
 
 ## Building AMTypeID
 
@@ -62,7 +62,7 @@ make
 
 ## License
 
-This library is under GNU GPL v3 license. If you need business license, don't hesitate to contact [me](mailto:zdenek.skulinek\@robotea.com\?subject\=License%20for%20AMTypeID).
+This library is under MIT license.
 
 ## Contribute
 
